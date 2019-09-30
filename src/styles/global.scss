@@ -1,0 +1,13 @@
+@import './header.scss';
+@import './hamburger.scss';
+@import './bodyContainer.scss';
+
+body{
+    background-color: #ecf7fa
+}
+
+
+html, body, ul, li, h3, h2, h1, a, p {
+    margin: 0;
+    padding: 0;
+  }

@@ -1,0 +1,26 @@
+.burgerButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 75px;
+    margin: auto;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    box-sizing: border-box;
+
+    .menu-lines {
+        margin-top: 2.5px;
+    
+        .buttonLine {
+          width: 35px;
+          margin-top: 6px;
+          height: 1px;
+          background:black;
+          border-radius: 50px;
+        }
+      } 
+
+}

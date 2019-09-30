@@ -1,0 +1,14 @@
+.headerContainer {
+    background-color: white;
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+
+
+    .headerTitle {
+        padding-top: 20px;
+        text-align: center;
+        margin-left: 30%;
+    }
+    
+}
